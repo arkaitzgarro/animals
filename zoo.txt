@@ -1,3 +1,5 @@
 Panther
 Whale
 Falcon
+Zebra
+Bear
