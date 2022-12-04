@@ -4,3 +4,4 @@ rabbit
 snake
 cow
 sheep
+chicken
